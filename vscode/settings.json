@@ -1,0 +1,33 @@
+// 既定の設定を上書きするには、このファイル内に設定を挿入します
+{
+  "editor.fontSize": 10,
+  "editor.trimAutoWhitespace": false,
+  "files.eol": "\r\n",
+  "files.autoGuessEncoding": true,
+  "swiftlint.enable": true,
+  "python.linting.pylintEnabled": false,
+  "python.linting.pep8Enabled": true,
+  "python.formatting.formatOnSave": true,
+  "python.autoComplete.extraPaths": [
+    "/Users/hirosawak/.pyenv/versions/anaconda3-4.2.0/bin/python"
+  ],
+  "python.autoComplete.addBrackets": true,
+  "python.formatting.provider": "autopep8",
+  "window.zoomLevel": 0,
+
+  "editor.quickSuggestions": true,
+  "editor.acceptSuggestionOnEnter": true,
+  "editor.quickSuggestionsDelay": 10,
+  "editor.wordBasedSuggestions": true,
+  "editor.parameterHints": true,
+  "editor.renderIndentGuides": true,
+  "tagjump.quiet": true,
+  
+  "files.associations": {
+    "*.htm": "asp"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Monokai",
+  "files.autoSave": "afterDelay"
+}
+
